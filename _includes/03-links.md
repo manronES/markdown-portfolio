@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[This](http://www.manron.com) is my english website - there's also an [spanish version](http://www.manron.es)!
